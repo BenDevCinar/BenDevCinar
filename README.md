@@ -26,7 +26,7 @@
 ## How To Reach Me
 - 📫 cinarefedeveloper@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=BenDevCinar&color=blue)
 
 <!--
 You can add more sections or customize this further as you grow your skills and projects!
